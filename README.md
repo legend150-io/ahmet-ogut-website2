@@ -97,7 +97,7 @@
   </section>
 
   <footer>
-    &copy; 2025 Ahmet Öğüt | www.ahmetogut.com
+    &copy; 2025 Ahmet Öğüt | https://legend150-io.github.io/ahmet-ogut-website/
   </footer>
 
 </body>
